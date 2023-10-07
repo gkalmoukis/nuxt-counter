@@ -30,8 +30,8 @@
 import moment  from 'moment';
 import { ref, onMounted } from 'vue';
 
-const name1 = "Vivi"
-const name2 = "Giorgos"
+const name1 = "Name 1"
+const name2 = "Name 2"
 const description = "Mou are mouare ipsum dolor sit are, mu mouare elit."
 const emoji = "❤️";
 const pastDate = moment('2021-11-05T00:00:00');
